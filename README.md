@@ -41,7 +41,7 @@ Buildzcrank updates itself automatically. When a new version is available it dow
 ## Support & Community
 
 - **Discord** → [discord.com/invite/hS8x429b39](https://discord.com/invite/hS8x429b39)
-- **Web** → [buildzcrank.com/blog](https://buildzcrank.com/)
+- **Web** → [buildzcrank.com](https://buildzcrank.com/)
 
 ---
 
